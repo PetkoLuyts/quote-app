@@ -1,4 +1,4 @@
-## Project deployed on: https://melodious-douhua-d11377.netlify.app/
+## Project deployed on: https://simplequotesite.netlify.app/
 
 # Getting Started with Create React App
 
